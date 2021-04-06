@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ramadhan-sakti
+- 👀 I’m interested in Computer Vision, Data Science, Mobile Development, and Automation
+- 🌱 I’m currently learning Android Mobile Development and Computer Vision implementation in Mobile environment
